@@ -4,7 +4,7 @@ This repository contains the implementation of f-GAN using Variational Divergenc
 
 ## Introduction
 
-f-GAN is a generative model training framework that leverages variational divergence minimization to improve the training of neural samplers. This implementation provides a flexible setup for experimenting with different divergence measures.
+f-GAN is a generative model training framework that uses a divergence measure to train both the generator and the discriminator. This implementation provides a flexible setup for experimenting with different divergence measures.
 
 ## Getting Started
 
