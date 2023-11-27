@@ -66,6 +66,9 @@ The project follows the structure below:
 - requirements.txt: List of dependencies.
 - checkpoints/: Folder used for storing the trained model checkpoints.
 
+- report.pdf: Project report.
+- presentation.pdf: Project presentation.
+
 ## Contributors
 
 This project was developed by the following members as part of the Data Science Lab course at Université Paris Dauphine for the academic year 2023/2024:
